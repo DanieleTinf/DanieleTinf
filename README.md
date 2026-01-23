@@ -7,7 +7,7 @@
   - [Digital Marketing Project](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
  
     
-- <b>Digital Marketing Project #2</b>
+- <b>A/B test plan</b>
 
 
-  - [Digital Marketing Project #2](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
+  - [A/B test plan]()
