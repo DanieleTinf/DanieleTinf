@@ -1,4 +1,4 @@
-<h2> Hi there 👋 </h2> Documenting myy digital marketing projects
+<h2> Hi there 👋 </h2> Documenting my digital marketing projects <h1></h1>
 
 
 - <b>Digital Marketing Project</b>
