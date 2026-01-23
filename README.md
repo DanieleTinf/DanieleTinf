@@ -23,4 +23,4 @@
 - <b>Google Analytics</b>
 
 
-  - [Anomalies in Google Analytics](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
+  - [Anomalies in Google Analytics](https://github.com/DanieleTinf/Anomalies-in-Google-Analytics)
