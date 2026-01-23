@@ -16,4 +16,11 @@
 - <b>SMART goals</b>
 
 
-  - [SMART goals](https://github.com/DanieleTinf/SMART-goals))
+  - [SMART goals](https://github.com/DanieleTinf/SMART-goals)
+ 
+
+
+- <b>Google Analytics</b>
+
+
+  - [Anomalies in Google Analytics](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
