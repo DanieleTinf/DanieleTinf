@@ -16,4 +16,4 @@
 - <b>SMART goals</b>
 
 
-  - [SMART goals](https://github.com/DanieleTinf/A-B-test-plan-)
+  - [SMART goals](https://github.com/DanieleTinf/SMART-goals))
