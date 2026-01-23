@@ -24,3 +24,10 @@
 
 
   - [Anomalies in Google Analytics](https://github.com/DanieleTinf/Anomalies-in-Google-Analytics)
+ 
+
+
+- <b>Social Media</b>
+
+
+  - [Social Media Analysis](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
