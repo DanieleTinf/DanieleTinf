@@ -30,4 +30,4 @@
 - <b>Social Media</b>
 
 
-  - [Social Media Analysis](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
+  - [Social Media Analysis](https://github.com/DanieleTinf/Social-media)
