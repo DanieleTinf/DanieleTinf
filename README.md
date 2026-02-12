@@ -31,3 +31,12 @@
 
 
   - [Social Media Analysis](https://github.com/DanieleTinf/Social-media)
+ 
+
+- <b>Email Marketing/ Retention Email</b>
+
+
+  - [Social Media Analysis](https://github.com/DanieleTinf/Social-media)
+ 
+
+
