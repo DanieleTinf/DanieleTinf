@@ -36,7 +36,7 @@
 - <b>Email Marketing/ Retention Email</b>
 
 
-  - [Social Media Analysis](https://github.com/DanieleTinf/Social-media)
+  - [Retention Email](https://github.com/DanieleTinf/Email-Marketing-Retention-email)
  
 
 
