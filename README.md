@@ -10,7 +10,7 @@
 - <b>Canva Instagram Posts</b>
 
 
-  - [Instagram Ads](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
+  - [Instagram Ads](https://github.com/DanieleTinf/Instagram-AD)
  
     
 - <b>A/B test plan</b>
