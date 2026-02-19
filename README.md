@@ -6,6 +6,12 @@
 
   - [Digital Marketing Project](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
  
+
+- <b>Canva Instagram Posts</b>
+
+
+  - [Instagram Ads](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
+ 
     
 - <b>A/B test plan</b>
 
