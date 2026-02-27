@@ -11,15 +11,17 @@
 
 
   - [Instagram Ads](https://github.com/DanieleTinf/Instagram-AD)
+ 
 
 
- - <b>Ad ( Reels Style)</b>
+- <b>Ad - Reels Style</b>
 
 
-  - [Ad For Event](https://github.com/DanieleTinf/Digital-Marketing-Campaign-Project)
+  - [Ad For An Event](https://github.com/DanieleTinf/Instagram-AD)
 
-    
-    
+
+
+  
 - <b>A/B test plan</b>
 
 
